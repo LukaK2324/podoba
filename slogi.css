@@ -1,0 +1,41 @@
+#GlavniOkvir
+{
+	background-color:none;
+	margin:0 auto 0 auto;
+	width: 950px;
+}
+#Header{
+	background-color:green; 
+	height: 100px;
+	width: 950px; 
+	display: flex;
+	flex-wrap:nowrap;
+	justify-content: space-between;
+	flex-direction: row;
+}
+#Telo{
+	background-color: violet;
+	height: 500px;
+	width:950px;
+	display: flex;
+}
+#LeviRob{
+	background-color: red;
+	height: 500px;
+	width: 200px;
+}
+#Vsebina{
+	background-color: white;
+	height: 500px;
+	width:550px;
+}
+#DesniRob{
+	background-color: cyan;
+	height: 500px;
+	width: 200px;
+}
+#Noga{
+	background-color: blue;
+	height: 200px;
+	width: 950px;
+}
